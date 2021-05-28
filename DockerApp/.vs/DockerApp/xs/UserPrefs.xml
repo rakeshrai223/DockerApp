@@ -1,4 +1,28 @@
-﻿<Properties StartupConfiguration="{239F7ECA-9BD0-4DB4-9522-0328F4ABDA45}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{239F7ECA-9BD0-4DB4-9522-0328F4ABDA45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DockerApp/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="DockerApp/Controllers/WeatherForecastController.cs" Line="16" Column="110" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DockerApp" expanded="True">
+            <Node name="DockerApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DockerApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DockerApp FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

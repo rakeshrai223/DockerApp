@@ -1,18 +1,20 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{239F7ECA-9BD0-4DB4-9522-0328F4ABDA45}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DockerApp/Controllers/WeatherForecastController.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{6169EBB5-9771-4095-8E1A-3AC1AD4497D9}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="DockerApp/Controllers/WeatherForecastController.cs" Line="16" Column="110" />
+      <File FileName="DockerApp/Controllers/WeatherForecastController.cs" Line="16" Column="121" />
+      <File FileName="DockerApp/appsettings.json" Line="8" Column="5" />
+      <File FileName="DockerApp/Dockerfile" Line="20" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DockerApp" expanded="True">
             <Node name="DockerApp" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True">
-                <Node name="WeatherForecastController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Dockerfile" selected="True" />
             </Node>
+            <Node name="docker-compose" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -20,9 +22,10 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DockerApp FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.DockerApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
